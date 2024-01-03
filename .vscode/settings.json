@@ -1,0 +1,11 @@
+{
+    // "editor.codeLens": false,
+    "[ini]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    },
+    "[bat]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    }
+}
